@@ -1,2 +1,2 @@
 # GenToken
-Token Generator for discotd but u have to test them
+Token Generator for discord but it needs to be tested
